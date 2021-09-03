@@ -220,7 +220,6 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(img/bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
