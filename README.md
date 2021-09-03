@@ -1,5 +1,5 @@
 # FurniX
-This is a imaginary furniture brand landing page and I made this for my project.
+This is a imaginary furniture brand landing page and I made this for my ISTE BITS Spider 2.0 web-dev contest.
 
 Below you can see the preview of the page
 
