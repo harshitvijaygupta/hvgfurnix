@@ -1,5 +1,5 @@
 # FurniX
-This is a imaginary furniture brand landing site and I made this for my ISTE BITS Spider 2.0 web-dev contest.
+This is a furniture brand landing site designed using HTML, CSS, JS.
 
 Below you can see the preview of the page
 
