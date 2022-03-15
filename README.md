@@ -16,7 +16,7 @@ This is a E-commerce Landing Page of a furniture brand site with interactive UI 
 - <a href="https://gitHub.com/hatshitvijaygupta/">FurniX Repo</a>
 
 ## Follow me :
-- <a href="https://www.linkedin.com/in/harshit-vijay-gupta/"></a>
+- <a href="https://www.linkedin.com/in/harshit-vijay-gupta/">LinkedIn</a>
 - Also you can give a like to this repo.
 
 ## Previews (will upload further) :
